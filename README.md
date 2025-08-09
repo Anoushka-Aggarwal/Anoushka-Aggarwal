@@ -1,16 +1,29 @@
-## Hi there 👋
+name: Anoushka Aggarwal
+located_in: Gurugram, Haryana
+current_job: Aspiring Software Engineer
+education:
+  [
+    "B.Tech in Computer Science, NSUT (2021-2025)",
+    "Internships at Microsoft & Battery Smart",
+  ]
+company: Open to Opportunities
 
-<!--
-**Anoushka-Aggarwal/Anoushka-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Software Development",
+    "Full-Stack Development",
+    "Machine Learning",
+    "Scalable Systems",
+    "AI Agents",
+  ]
+technical_background:
+  [
+    "Full-Stack Developer (React, Next.js, TypeScript, Node.js)",
+    "Intern - Software Engineering at Microsoft",
+    "Intern - Full-Stack Engineering at Battery Smart",
+    "Competitive Programmer - 900+ DSA problems solved in C++",
+  ]
+  
+currently_learning: ["System Design", "Advanced Data Structures", "Cloud Platforms (AWS/GCP)"]
+2025 Goals: ["Join a fast-paced team, build impactful products, and contribute to open-source projects"]
+hobbies: ["🏸 Athlete", "💪 Fitness Enthusiast", "✈️ Traveller", "💻 Hackathon Hacker", "🧩 Problem Solver", "🥁 Drummer", "🐶 Dog Lover"]
