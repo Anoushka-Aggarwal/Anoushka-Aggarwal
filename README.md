@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Anoushka%20Aggarwal&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:00BFFF&height=300&section=header&text=Anoushka%20Aggarwal&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 # 👋 Hi, I'm Anoushka Aggarwal
 **Aspiring Software Engineer | NSUT CSE 2025 | Microsoft & Battery Smart Intern Alum**
@@ -49,6 +49,7 @@
 
 ## 🎭 Hobbies
 - 🏸 Athlete  
+- 💪 Fitness Enthusiast  
 - ✈️ Traveller  
 - 💻 Hackathon Hacker  
 - 🧩 Problem Solver  
@@ -57,4 +58,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:8A2BE2&height=200&section=footer&animation=fadeIn)
