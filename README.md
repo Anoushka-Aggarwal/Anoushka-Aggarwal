@@ -57,5 +57,12 @@
 - 🐶 Dog Lover  
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoushka-Aggarwal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka-Aggarwal&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:8A2BE2&height=200&section=footer&animation=fadeIn)
