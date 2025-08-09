@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:00BFFF&height=300&section=header&text=Anoushka%20Aggarwal&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoushka-Aggarwal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka-Aggarwal&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 # 👋 Hi, I'm Anoushka Aggarwal
 **Aspiring Software Engineer | NSUT CSE 2025 | Microsoft & Battery Smart Intern Alum**
 
@@ -11,8 +20,6 @@
 ## 🎓 Education
 - B.Tech in Computer Science, NSUT (2021-2025)  
 - Internships at Microsoft & Battery Smart  
-
-## 🏢 Open to Opportunities
 
 ---
 
@@ -48,8 +55,7 @@
 ---
 
 ## 🎭 Hobbies
-- 🏸 Athlete  
-- 💪 Fitness Enthusiast  
+- 🏃🏼‍♀️ Athlete  
 - ✈️ Traveller  
 - 💻 Hackathon Hacker  
 - 🧩 Problem Solver  
@@ -57,12 +63,5 @@
 - 🐶 Dog Lover  
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoushka-Aggarwal&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoushka-Aggarwal&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:8A2BE2&height=200&section=footer&animation=fadeIn)
