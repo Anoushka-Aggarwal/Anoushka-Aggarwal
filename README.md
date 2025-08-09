@@ -1,11 +1,13 @@
 name: Anoushka Aggarwal
 located_in: Gurugram, Haryana
 current_job: Aspiring Software Engineer
+
 education:
   [
     "B.Tech in Computer Science, NSUT (2021-2025)",
     "Internships at Microsoft & Battery Smart",
   ]
+
 company: Open to Opportunities
 
 fields_of_interests:
@@ -16,6 +18,7 @@ fields_of_interests:
     "Scalable Systems",
     "AI Agents",
   ]
+
 technical_background:
   [
     "Full-Stack Developer (React, Next.js, TypeScript, Node.js)",
@@ -23,7 +26,28 @@ technical_background:
     "Intern - Full-Stack Engineering at Battery Smart",
     "Competitive Programmer - 900+ DSA problems solved in C++",
   ]
-  
-currently_learning: ["System Design", "Advanced Data Structures", "Cloud Platforms (AWS/GCP)"]
-2025 Goals: ["Join a fast-paced team, build impactful products, and contribute to open-source projects"]
-hobbies: ["🏸 Athlete", "💪 Fitness Enthusiast", "✈️ Traveller", "💻 Hackathon Hacker", "🧩 Problem Solver", "🥁 Drummer", "🐶 Dog Lover"]
+
+currently_learning:
+  [
+    "System Design",
+    "Advanced Data Structures",
+    "Cloud Platforms (AWS/GCP)",
+  ]
+
+2025 Goals:
+  [
+    "Join a fast-paced team",
+    "Build impactful products",
+    "Contribute to open-source projects",
+  ]
+
+hobbies:
+  [
+    "🏸 Athlete",
+    "💪 Fitness Enthusiast",
+    "✈️ Traveller",
+    "💻 Hackathon Hacker",
+    "🧩 Problem Solver",
+    "🥁 Drummer",
+    "🐶 Dog Lover",
+  ]
